@@ -35,10 +35,10 @@ Opened Task Manager and checked CPU, Memory and Disk usage.
 Reviewed Startup Apps and disabled unnecessary applications.
 
 ### Step 3
-Ran Disk Cleanup to remove temporary files.
+Ran Disk Cleanup to remove temporary files, internet cache, DirectX shader cache, and Delivery Optimisation files.
 
 ### Step 4
-Checked Windows Update and installed available updates.
+Checked Windows Update and confirmed the system was already up to date with no pending updates.
 
 ### Step 5
 Reviewed Event Viewer for system errors.
@@ -50,7 +50,7 @@ Restarted the computer and monitored performance.
 
 ## Result
 
-System startup time improved and overall responsiveness increased after removing unnecessary startup applications and cleaning temporary files.
+Reviewed system performance using Task Manager, Startup Apps, Disk Cleanup, Windows Update, and Event Viewer. The system was up to date, temporary files were removed, and the computer restarted successfully after the maintenance checks.
 
 ---
 
